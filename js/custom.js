@@ -1,6 +1,7 @@
 
   $(function () {
     'use strict'
+console.log("JavaScript is working!");
 
     // MENU
     $('.navbar .nav-link').on('click',function(){
